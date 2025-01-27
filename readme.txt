@@ -1,7 +1,5 @@
 Group Details:
 1. Vipul Bondre 2020csm1020
-2. Harshit Verma 2020csm1011
-
 
 Instructions for compiling and runing:
 
